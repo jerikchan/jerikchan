@@ -2,7 +2,7 @@
 
 I have over two years of experience as a digital nomad, having lived and worked remotely in places like Dali, Yunnan, China, Bali, Indonesia, and Thailand, traveling while working on various remote projects. Recently interested in Web3, AI, and global expansion.
 
-> Tech stack: React/Next.js/Vue/Typescript/uni-app/jQuery
+> Tech Stack: React/Next.js/Vue/Typescript/uni-app/jQuery
 
 <!--
 **jerikchan/jerikchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
